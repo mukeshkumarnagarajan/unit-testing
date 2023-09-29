@@ -7,9 +7,10 @@ public class Maths {
 				System.out.println("A is Zero");
 			}
 			if (a == 5) {
-				throw new RuntimeException();
+				throw new 
+				RuntimeException();
 			}
-			
+				
 			return a + b;
 		}
 
