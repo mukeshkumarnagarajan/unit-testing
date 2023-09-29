@@ -9,6 +9,7 @@ public class Maths {
 			if (a == 5) {
 				throw new RuntimeException();
 			}
+			
 			return a + b;
 		}
 
